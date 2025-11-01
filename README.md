@@ -31,14 +31,33 @@ This lab builds upon my previous osTicket Setup repository and continues the pro
 - Below are the main steps (Phases 1-22) I followed to fully deploy osTicket.
   # Deployment and Phases
 
-    ## Phase 1
+## Phase 1
   - In osTicket Configure Roles (for grouping permissions
   - Admin Panel -> Agents -> Roles -> Supreme Admin -> check every perm
+  - 
 <img width="800" height="800" alt="Post Install Phase 1" src="https://github.com/user-attachments/assets/6ac4335a-56b4-4481-80bd-097924c06692" />
 
-    ## Phase 2
+## Phase 2
   - in osTicket Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
   - Admin Panel -> Agents -> Departments -> Name Sys Admin
+  
 <img width="800" height="800" alt="Post Install Phase 2" src="https://github.com/user-attachments/assets/86202821-e6e2-4d79-a600-2f92005ea677" />
+
+## Phase 3
+  - in osTicket Configure Teams
+  - Admin Panel -> Agents -> Teams(Pull Agents from different Departments) -> Online Banking
+
+<img width="800" height="800" alt="Post Instal Phase 3" src="https://github.com/user-attachments/assets/37aab3f2-3121-4d32-aad7-37c99120092a" />
+
+## Phase 4
+  - Allow anyone to create tickets
+  - Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) -> Registration Required: Require Registration and login to create tickets
+
+<img width="800" height="800" alt="Post Intall Phase 4" src="https://github.com/user-attachments/assets/9a766f63-159f-4249-b67a-5cf7a2f9e3b5" />
+
+## Phase 5
+  - in osTicket Configure Agents (workers)
+  - Admin Panel -> Agents -> Add New -> Jane Doe (Dept: Sys Admin) and -> John Doe (Dept: Support)
+
 
     
