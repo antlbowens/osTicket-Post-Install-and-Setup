@@ -30,3 +30,15 @@ This lab builds upon my previous osTicket Setup repository and continues the pro
 # Deployment and Phases Overview
 - Below are the main steps (Phases 1-22) I followed to fully deploy osTicket.
   # Deployment and Phases
+
+    ## Phase 1
+  - In osTicket Configure Roles (for grouping permissions
+  - Admin Panel -> Agents -> Roles -> Supreme Admin -> check every perm
+<img width="800" height="800" alt="Post Install Phase 1" src="https://github.com/user-attachments/assets/6ac4335a-56b4-4481-80bd-097924c06692" />
+
+    ## Phase 2
+  - in osTicket Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+  - Admin Panel -> Agents -> Departments -> Name Sys Admin
+<img width="800" height="800" alt="Post Install Phase 2" src="https://github.com/user-attachments/assets/86202821-e6e2-4d79-a600-2f92005ea677" />
+
+    
