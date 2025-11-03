@@ -61,7 +61,7 @@ This lab builds upon my previous osTicket Setup repository and continues the pro
   - Also set a password for both jane and john make sure require password change box is unchecked
 <img width="800" height="800" alt="Screenshot 2025-11-01 091014" src="https://github.com/user-attachments/assets/f91bd61c-5498-425e-a751-05e4057d5be7" />
 <img width="800" height="800" alt="Screenshot 2025-11-01 091112" src="https://github.com/user-attachments/assets/7841ea9b-cb4e-4c0c-abcc-8971899eca00" />
-<img width="2559" height="1439" alt="Screenshot 2025-11-01 091503" src="https://github.com/user-attachments/assets/d398685b-d2a3-4647-96ba-51e13e10db52" />
+<img width="800" height="800" alt="Screenshot 2025-11-01 091503" src="https://github.com/user-attachments/assets/d398685b-d2a3-4647-96ba-51e13e10db52" />
 
 
 
